@@ -14,7 +14,7 @@ My toolkit includes **Python, SQL, Power BI, and Excel**. I turn complex data in
 
 AI & ML spark my curiosity because every algorithm is a chance to solve real-world problems. I’m mastering the math today to create measurable impact as a data scientist tomorrow.
 
-Explore my [Projects](https://github.com/Meshva7?tab=repositories) to see dashboards, analytics insights, and hands-on experience in action.
+Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see dashboards, analytics insights, and hands-on experience in action.
 
 ---
 
@@ -42,4 +42,4 @@ Explore my [Projects](https://github.com/Meshva7?tab=repositories) to see dashbo
 Ready to tackle real problems with smart analytics?  
 Share your business challenge, and I’ll uncover the story hidden in the data.
 
-[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/meshva7/)
+[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/meshvaapatel/)
