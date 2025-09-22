@@ -31,9 +31,9 @@ Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see d
 
 ## 📂 Featured Projects
 
-- [SaaS Companies 2025 Analysis](https://github.com/Meshva7/saas-companies-2025-analysis)
-- [Cafe Sales Exploratory Data Analysis](https://github.com/Meshva7/cafe-sales-exploratory-data-analysis)
-- [Retail SQL Analysis](https://github.com/Meshva7/retail-sql-analysis)
+- [SaaS Companies 2025 Analysis](https://github.com/meshvaaptel/saas-companies-2025-analysis)
+- [Cafe Sales Exploratory Data Analysis](https://github.com/meshvaapatel/cafe-sales-exploratory-data-analysis)
+- [Retail SQL Analysis](https://github.com/meshvaapatel/retail-sql-analysis)
 
 ---
 
