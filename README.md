@@ -8,11 +8,11 @@
 
 ## 📝 About Me
 
-I don’t just analyze data—I listen to it. Behind every number is a story, a problem, a possibility.
+I believe every dataset has a story waiting to be told. I'm a data analyst who translates numbers into clear insights and strategies.
 
-My toolkit includes **Python, SQL, Power BI, and Excel**. I turn complex data into clear insights and actionable strategies.
+My toolkit includes **Python, SQL, Power BI, and Excel**.
 
-AI & ML spark my curiosity because every algorithm is a chance to solve real-world problems. I’m mastering the math today to create measurable impact as a data scientist tomorrow.
+Actively developing skills in AI and machine learning to tackle more complex challenges.
 
 Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see dashboards, analytics insights, and hands-on experience in action.
 
