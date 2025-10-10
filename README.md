@@ -8,31 +8,32 @@
 
 ## 📝 About Me
 
-I believe every dataset has a story waiting to be told. I'm a data analyst who translates numbers into clear insights and strategies.
+I see every dataset as a story waiting to be uncovered. As a data analyst, I transform raw data into actionable insights and strategic solutions.
 
-My toolkit includes **Python, SQL, Power BI, and Excel**.
+My core skills include **Python**, **SQL**, **Power BI**, and **Excel**, and I am continually expanding my expertise in *AI* and *Machine Learning* to tackle more complex challenges.
 
-Actively developing skills in AI and machine learning to tackle more complex challenges.
-
-Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see dashboards, analytics insights, and hands-on experience in action.
+Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see dashboards, detailed analytics, and practical experience in data-driven decision making.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, SQL
-- **Analytics Tools:** Power BI, Excel
-- **Data Science:** Pandas, NumPy, scikit-learn, Matplotlib
-- **Visualization:** Power BI, Matplotlib, Seaborn
-- **Databases:** SQL Server, MySQL
-- **Other Interests:** AI, Machine Learning
+| Category          | Skills & Tools                                      |
+|-------------------|---------------------------------------------------- |
+| Languages         | Python, SQL                                         |
+| Analytics Tools   | Power BI, Excel                                     |
+| Data Science      | Pandas, NumPy, scikit-learn, Matplotlib             |
+| Visualization     | Power BI, Matplotlib, Seaborn                       |
+| Databases         | SQL Server, MySQL                                   |
+|  Focus            | AI, Machine Learning                                |
 
 ---
 
 ## 📂 Featured Projects
 
-- [SaaS Companies 2025 Analysis](https://github.com/meshvaaptel/saas-companies-2025-analysis)
+- [Smartphone Price Prediction System](https://github.com/meshvaapatel/smartphone-price-prediction-system)
 - [Cafe Sales Exploratory Data Analysis](https://github.com/meshvaapatel/cafe-sales-exploratory-data-analysis)
+- [SaaS Companies 2025 Analysis](https://github.com/meshvaaptel/saas-companies-2025-analysis)
 - [Retail SQL Analysis](https://github.com/meshvaapatel/retail-sql-analysis)
 
 ---
