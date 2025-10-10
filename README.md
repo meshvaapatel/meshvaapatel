@@ -10,7 +10,7 @@
 
 I see every dataset as a story waiting to be uncovered. As a data analyst, I transform raw data into actionable insights and strategic solutions.
 
-My core skills include **Python**, **SQL**, **Power BI**, and **Excel**, and I am continually expanding my expertise in *AI* and *Machine Learning* to tackle more complex challenges.
+My core skills include **Python**, **SQL**, **Power BI**, and **Excel**, and I am actively expanding my expertise in *AI* and *Machine Learning* to tackle more complex challenges.
 
 Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see dashboards, detailed analytics, and practical experience in data-driven decision making.
 
