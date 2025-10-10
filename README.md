@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Meshva
+# 👋 Hi, I'm Meshva Patel
 
 **📊 Data Analyst | ⚙️ AI/ML Explorer | 🚀 Aspiring Data Scientist**
 
