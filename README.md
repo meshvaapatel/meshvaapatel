@@ -20,7 +20,6 @@ Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see d
 
 - [Smartphone Price Prediction System](https://github.com/meshvaapatel/smartphone-price-prediction-system)
 - [Cafe Sales Exploratory Data Analysis](https://github.com/meshvaapatel/cafe-sales-exploratory-data-analysis)
-- [SaaS Companies 2025 Analysis](https://github.com/meshvaaptel/saas-companies-2025-analysis)
 - [Retail SQL Analysis](https://github.com/meshvaapatel/retail-sql-analysis)
 
 ---
