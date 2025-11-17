@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meshva Patel
 
-###  **📊 Data Analyst with a growing interest in AI and Machine Learning to turn complex data into practical business solutions**
+###  **📊 Data Analyst with a growing interest in AI and Machine Learning**
 
 📍 Surat, Gujrat, India 
 
