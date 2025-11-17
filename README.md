@@ -18,14 +18,14 @@ Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see d
 
 ## 🛠️ Skills Summary
 
-| Category                        | Skills & Tools                                              |
-|---------------------------------|------------------------------------------------------------ | 
-| Languages                       | Python, SQL                                                 |
-| Analytics Tools                 | Power BI, MySQL, Excel                                      |
-| Frameworks                      | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit |
-| Platforms                       | Jupyter Notebook, Visual Studio Code, Google Colab Notebook |
-| Soft Skills                     | Rapport Building, People Management, Good Communication     |
-| Core Focus Areas                | AI, Machine Learning                                        |
+| Category                        | Skills & Tools                                                   |
+|---------------------------------|----------------------------------------------------------------- | 
+| Languages                       | Python, SQL                                                      |
+| Analytics Tools                 | Power BI, MySQL, Excel                                           |
+| Frameworks                      | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit      |
+| Platforms                       | Jupyter Notebook, Visual Studio Code, Google Colab Notebook      |
+| Soft Skills                     | Rapport Building, People Management, Good Communication          |
+| Core Focus Areas                | AI, Machine Learning                                             |
 
 ---
 
