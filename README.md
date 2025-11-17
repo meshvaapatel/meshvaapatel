@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meshva Patel
 
-**📊 Data Analyst | ⚙️ AI/ML Explorer | 🚀 Aspiring Data Scientist**
+###  **📊 Data Analyst with a growing interest in AI and Machine Learning**
 
 📍 Surat, Gujrat, India 
 
@@ -8,9 +8,9 @@
 
 ## 📝 About Me
 
-I see every dataset as a story waiting to be uncovered. As a data analyst, I transform raw data into actionable insights and strategic solutions.
+I’m a data analyst who works with Python, SQL, Power BI, and Excel to turn raw data into clear insights. I focus on understanding the data, finding patterns, and presenting results in a way that supports good decision-making.
 
-My core skills include **Python**, **SQL**, **Power BI**, and **Excel**, and I am actively expanding my expertise in *AI* and *Machine Learning* to tackle more complex challenges.
+I’m currently learning more about AI and Machine Learning to strengthen my analytical approach and handle more advanced tasks. This includes understanding how models work, how to prepare data for them, and how they can support practical business questions.
 
 Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see dashboards, detailed analytics, and practical experience in data-driven decision making.
 
@@ -24,16 +24,16 @@ Explore my [Projects](https://github.com/meshvaapatel?tab=repositories) to see d
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills Summary
 
-| Category                        | Skills & Tools                                      |
-|---------------------------------|---------------------------------------------------- |
-| Languages                       | Python, SQL                                         |
-| Analytics Tools                 | Power BI, Excel                                     |
-| Data Science & Machine Learning | Pandas, NumPy, scikit-learn, Matplotlib             |
-| Visualization                   | Power BI, Matplotlib, Seaborn                       |
-| Databases                       | SQL Server, MySQL                                   |
-| Core Focus Areas                | AI, Machine Learning                                |
+| Category                        | Skills & Tools                                              |
+|---------------------------------|------------------------------------------------------------ | 
+| Languages                       | Python, SQL                                                 |
+| Analytics Tools                 | Power BI, MySQL, Excel                                      |
+| Frameworks                      | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Streamlit |
+| Platforms                       | Jupyter Notebook, Visual Studio Code, Google Colab Notebook |
+| Soft Skills                     | Rapport Building, People Management, Good Communication     |
+| Core Focus Areas                | AI, Machine Learning                                        |
 
 ---
 
@@ -43,3 +43,5 @@ Ready to tackle real problems with smart analytics?
 Share your business challenge, and I’ll uncover the story hidden in the data.
 
 [🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/meshvaapatel/)
+
+📩 [meshvapatel.ds@gmail.com](mailto:meshvapatel.ds@gmail.com)
